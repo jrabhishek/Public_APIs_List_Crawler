@@ -1,0 +1,23 @@
+{
+  "name": "public_apis_list_crawler",
+  "version": "1.0.0",
+  "description": "api crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrabhishek/Public_APIs_List_Crawler.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrabhishek/Public_APIs_List_Crawler/issues"
+  },
+  "homepage": "https://github.com/jrabhishek/Public_APIs_List_Crawler#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mongoose": "^6.0.1"
+  }
+}
